@@ -15,11 +15,11 @@ Passo a passo:
 Área do site com acesso de admin:
 localhost:3000/admin
 
-Login do admin:
-Email: admin@gmail.com
-Senha: 123
+Login do admin:<br/>
+Email: admin@gmail.com<br/>
+Senha: 123<br/>
 
-
+<br/>
 Logins normais:
 gustavo@gmail.com
 123
