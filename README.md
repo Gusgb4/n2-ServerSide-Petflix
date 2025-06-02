@@ -17,13 +17,13 @@ Email: admin@gmail.com<br/>
 Senha: 123<br/>
 
 <br/>
-Logins normais:
+Logins normais:<br/>
 gustavo@gmail.com<br/>
 123<br/>
-
+<br/>
 adrian@gmail.com<br/>
 123<br/>
-
+<br/>
 daniel@gmail.com<br/>
 123<br/>
 
